@@ -1,16 +1,17 @@
 - 👋 Hi, I’m @SkynetWatcher my freinds call me PiZen. [Note to self ... Get freinds]
   
 - 👀 I’m interested in pretty much everything. Howevr for purposes of this thing I am restricting it to Pinball, Virtual pinball to be exact.
-  There is a virtual pinball system call FX10, as well as Future Pinball. These software packages (here on github I belive) work with other
-  software to provide a computer based system where a virtual simulation of a binball game can be created. Many are copies of real popular pinball games.
-  These can be played on a computer with a single screen, but they come into their own when they are paired with actual hardware shaped like a real pinball table.
-  These cabinets as they are called can be designed with 1 main sreen as a playfield and up to 4 displays as well as a dozen or so virtual to
-  make what is an awsome entertainment device. A real pinball cabinet can cost up to $18,000 news and is a miracle of innovation and a mechanical
-  marvel of engineering. The older Relay logic versions are a passion of mine. But those are not what I am here for.
-    Virtual machines on the otherhand are just pixels on a screen but the technology of today allows them to be almost as realistic to the play of
-  the actual machines and you can even design them into a real cabinet which cost a fraction of the real ones, yet it can play 1000's of 'tables' as
-  they are called, all on demand. While there is a large community of tables which are commercial (IE., FX3 on Steam) there is an even larger community of
-  opensource resources on the web for both the Tables to be played as well as the software that supports them. Its Awesome.
+  There is a virtual pinball system call FX10, as well as Future Pinball. These software packages (hosted here on github I believe) work with other
+  software to provide a computer based system where a virtual simulation of a pinball game can be created. Many are copies of 'real world' pinball games.
+  These can be played on a computer with a single screen, but they come into their own when they are paired with actual hardware shaped like a real pinball
+  cabinet.
+  These 'cabinets' - as they are called - can be designed with 1 main sreen as a playfield and up to 4 displays as well as a dozen or so virtual to
+  make what is an awesome entertainment device. A real pinball cabinet can cost up to $18,000 new and as a miracle of innovation and a mechanical
+  marvel of engineering they are center pieves of conversaion. The older Relay logic versions are a passion of mine. But those are not what I am here for.
+    Virtual machines on the otherhand are just pixels on a screen. But the technology of today allows them to be almost as realistic in the playing of
+  the actual machines. And you can even design them into a real cabinet which cost a fraction of the real ones, yet it can play 100's of 'tables' as
+  they are called - all on demand. While there is a large community of tables which are commercial (FX3 on Steam as an example) there is an even larger
+  community of opensource resources on the web for both the Tables to be played as well as the software that supports them. Its Awesome.
   
 - 🌱 I’m currently learning how all these things work together to make a table. Its a very large task. Even setting up the software, configuring it
   and getting it to work with tables designed by others is not one to be done by someone with absolutly no knowledge of some of the mechanics behind it.
@@ -22,7 +23,7 @@
   is repositoried elsewhere) and or in creating a new table editor. The current one is sorely lacking and its age is showing And a pain to deal with.
   I am not also adverse to collaberating on making a custom table either. (I have a List, lol). and am currently working on one of my own.
   
-- 📫 How to reach me ... well since I can't seem to get a handle on a way to do it here if anyone is interested in contabing me (see not to self above)
+- 📫 How to reach me ... well since I can't seem to get a handle on a way to do it here - if anyone is interested in confabing me (see 'note to self' above)
   try using armagastsintruth@gmail.com
   
 - 😄 Pronouns: ... What?
